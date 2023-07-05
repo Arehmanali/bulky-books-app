@@ -1,6 +1,6 @@
 # bulky-books-app
 BulkyBooks is a simple application performing basic CRUD operations using ASP.NET Core MVC (.NET 6). 
-### Pages
+### Pages of App
 #### List Categories Page
 <img width="1680" alt="image" src="https://github.com/Arehmanali/bulky-books-app/assets/55204040/efd68a21-0e3e-4141-9412-a9ad147991f0">
 
